@@ -1,0 +1,24 @@
+{
+  "name": "integration-amazon-redshift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astronomerio/integration-amazon-redshift.git"
+  },
+  "author": "astronomer",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.2.4",
+    "obj-case": "^0.2.0",
+    "segmentio-integration": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "segmentio-integration-tester": "^1.0.7"
+  }
+}
