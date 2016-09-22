@@ -1,5 +1,5 @@
 {
-  "name": "integration-amazon-redshift",
+  "name": "@astronomerio/integration-amazon-redshift",
   "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
